@@ -1,0 +1,1 @@
+Using setContextProperty multiple times.
